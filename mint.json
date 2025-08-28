@@ -1,0 +1,25 @@
+{
+  "name": "ZNAPI Docs",
+  "logo": "/images/logo.png",
+  "favicon": "/images/favicon.png",
+  "colors": {
+    "primary": "#6366F1",
+    "light": "#F9FAFB",
+    "dark": "#111827"
+  },
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["introduction"]
+    },
+    {
+      "group": "API Reference",
+      "pages": [
+        "chat-completion",
+        "embedding",
+        "speech",
+        "images"
+      ]
+    }
+  ]
+}

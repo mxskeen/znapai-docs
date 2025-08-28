@@ -32,7 +32,7 @@ curl --location 'https://api.znapai.com/v1/audio/speech' \
 
 ## Text to Speech Response
 
-![image.png](OpenAI%20Speech%2025d9f64d90108135a40ee7e0e81c1047/image.png)
+![image](./images/image.png)
 
 ## Speech to Text Request
 

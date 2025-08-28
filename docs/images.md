@@ -50,4 +50,4 @@ curl --location 'https://api.znapai.com/v1/images/generations' \
 
 ## Image
 
-![image.png](OpenAI%20Images%2025d9f64d901081138abee12ec465314f/image.png)
+![image](./images/image.png)
